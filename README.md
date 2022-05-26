@@ -3,7 +3,7 @@
 
 this writeup is also a nft at the txid :
 a114872d263b892c639f0998588f548d740a375e6ad4f5e9a4e5aa814eb59462
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
 openssl sha3-224 -binary oeis-and-a-nft-standard.pdf | openssl base64
 
 k98xIzS0t0TGWu5r2CUXT8tLuvWX+5FpZFYzNw
