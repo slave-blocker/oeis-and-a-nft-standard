@@ -9,8 +9,8 @@ openssl sha3-224 -binary oeis-and-a-nft-standard.pdf | openssl base64
 k98xIzS0t0TGWu5r2CUXT8tLuvWX+5FpZFYzNw
 
 Hex output :
-----------------------------------------------------------------------------
+
 6b393878497a53307430544757753572324355585438744c757657582b3546705a46597a4e77
-----------------------------------------------------------------------------
+
 
 op_return : k98xIzS0t0TGWu5r2CUXT8tLuvWX+5FpZFYzNw
